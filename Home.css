@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+:root {
+   --color:white;
+}
 .bg-image{
     position: relative;
     width: 100%;
@@ -47,6 +50,7 @@
     font-size: 17px;
     font-weight: normal;
     color: #fff;
+    color: var(--color);
     line-height: 22px;
     margin: 0 auto;
     letter-spacing: 1px;
