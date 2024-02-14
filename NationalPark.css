@@ -76,11 +76,12 @@
 @media(max-width: 1024px){
 
     .wlsites{
-        padding: 10px;;
+        padding: 10px;
     }
 }
 .nationalparkbg{
-    background: url(image2/nationalparkbg.jpg)fixed;
+    /*background: url(image2/nationalparkbg.jpg)fixed;*/
+    background: url(bg.jpg) fixed;
     background-size: cover;
     height: auto;
 }
